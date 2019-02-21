@@ -1,6 +1,12 @@
 # OWASP TOP10
 
 A1:2017-Injection
+漏洞說明:
+
+測試工具:
+
+測試案例:
+
 A2:2017-Broken Authentication
 A3:2017-Sensitive Data Exposure
 A4:2017-XML External Entities (XXE)
